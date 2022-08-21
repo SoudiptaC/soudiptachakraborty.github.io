@@ -8,3 +8,4 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3489425'
 citation: 'Bernstein, Fernando and Chakraborty, Soudipta and Swinney, Robert, Intertemporal Content Variation with Customer Learning (August 27, 2020). Manufacturing & Service Operations Management, Vol. 24, No. 3'
 ---
+Something Somthing

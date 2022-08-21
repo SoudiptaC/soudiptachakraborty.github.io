@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 Working Papers
-======
+------
 * [Persuading Skeptics and Fans: Information Design for New Experience Goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139424) - with [H. Gurkan](https://sites.google.com/view/gurkan).
- * Abstract
 
 Journal Publications
 ======

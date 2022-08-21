@@ -10,11 +10,8 @@ Working Papers
 * [Persuading Skeptics and Fans: Information Design for New Experience Goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139424) - with [H. Gurkan](https://sites.google.com/view/gurkan).
 
 Journal Publications
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* [Designing Rewards-Based Crowdfunding Campaigns for Strategic (but Distracted) Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240094) - with [A. Ma](https://anyima.com/) and [R. Swinney](https://www.robertswinney.com/). Forthcoming in Naval Research Logistics.
 
 * Fall 2015: Research Assistant
   * Github University
